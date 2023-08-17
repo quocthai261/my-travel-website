@@ -1,7 +1,6 @@
+1.Tên dự án: Website Chọn điểm Du lịch
 
-1.	Tên dự án: Website Chọn điểm Du lịch
-
-2.	Mô tả dự án (Dự án đang được tiến hành)
+2.Mô tả dự án (Dự án đang được tiến hành)
 
 •	Dự án xây dựng Website chọn địa điểm du lịch.
 
@@ -13,7 +12,7 @@
 
 o	Front-end: HTML/CSS, ReactJs
 
-3.	Các tính năng
+3.Các tính năng
 
 Có giao diện các trang:
 
@@ -27,7 +26,7 @@ Có giao diện các trang:
 
 Các trang và thanh điều hướng đều được Responsive nhằm hiển thị phù hợp với nhiều kích thước hiển thị khác nhau.
 
-4.	Giao diện
+4.Giao diện
 
 •	Trang Home:
 ![image](https://github.com/quocthai261/my-travel-website/assets/91470802/337385be-85a6-47a3-a541-ced307623894)
