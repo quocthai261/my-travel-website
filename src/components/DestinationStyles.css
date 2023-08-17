@@ -73,6 +73,10 @@
         width: 100%;
     }
 
+    .des-text h2{
+        text-align: left;
+    }
+
     .image {
         width: 100%;
         margin: 1.8rem 0;
