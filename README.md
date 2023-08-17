@@ -1,70 +1,48 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1.	Tên dự án: Website Chọn điểm Du lịch
 
-## Available Scripts
+2.	Mô tả dự án (Dự án đang được tiến hành)
 
-In the project directory, you can run:
+•	Dự án xây dựng Website chọn địa điểm du lịch.
 
-### `npm start`
+•	Dự án được thực hiện với mục đích tự học cũng như trao dồi thêm kinh nghiệm làm việc với ReactJs, HTML, CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+•	Số lượng thành viên: 01 (Dự án cá nhân)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+•	Công nghệ sử dụng:
 
-### `npm test`
+o	Front-end: HTML/CSS, ReactJs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3.	Các tính năng
 
-### `npm run build`
+Có giao diện các trang:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+•	Trang chủ (Home): Hiển thị cách địa điểm du lịch phổ biến, gợi ý điểm du lịch.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+•	Trang thông tin (About): Cho biết thêm về câu chuyện, trách nhiệm và tầm nhìn khi tạo ra một Website.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+•	Trang dịch vụ (Service): Cập  nhật các gói giảm giá du lịch, các điểm đã du lịch gần đây.
 
-### `npm run eject`
+•	Trang liên hệ (Contact): Cho phép người dùng liên hệ với người tạo ra Website thông qua cách thức gửi mail.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Các trang và thanh điều hướng đều được Responsive nhằm hiển thị phù hợp với nhiều kích thước hiển thị khác nhau.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4.	Giao diện
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+•	Trang Home:
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/337385be-85a6-47a3-a541-ced307623894)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/fd531774-530a-4c87-b14f-b98900136865)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/444e0dc7-d33c-4bd2-bfb0-bd5458f12007)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/3a926b7e-1d23-4941-b1df-f7ad94a2d24a)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+•	Trang About:  
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/c269f2b9-a731-4a1a-b309-0cae613f600f)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/b100d96a-aadc-4b05-9eea-bacb287ac439)
 
-## Learn More
+•	Trang Service:
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/05be02cb-0fc8-4018-87dd-a44f2da5b3ab)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/e6ecd995-1957-434f-9afc-2d313fcccd8c)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+•	Trang Contact:  
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/91b91211-5761-46cf-a670-f9c976a32288)
+![image](https://github.com/quocthai261/my-travel-website/assets/91470802/5c900abf-02e7-491a-b47d-e6a2f7842345)
