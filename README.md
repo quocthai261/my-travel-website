@@ -2,7 +2,7 @@
 
 2.Mô tả dự án (Dự án đang được tiến hành)
 
-•	Mã nguồn: https://travel-website-c23b2.firebaseapp.com/
+•	Mã nguồn (demo): https://travel-website-c23b2.firebaseapp.com/
 
 •	Dự án xây dựng Website chọn địa điểm du lịch.
 
